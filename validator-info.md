@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|TRACE™|https://trace-tm.tech/|https://x.com/vovscorp|Indonesia|https://github.com/vovscorp13|trace.valoper@gmail.com|vovscorp|7D5EFF5BA4DC5F03D7DF630A2995C017FD4146B491F6F0679A9D10370BA0A479|
+|TRACE™|https://trace-tm.tech/|https://x.com/vovscorp|Indonesia|https://github.com/vovscorp13|trace.valoper@gmail.com|vovscorp,BitKot|7D5EFF5BA4DC5F03D7DF630A2995C017FD4146B491F6F0679A9D10370BA0A479|
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
